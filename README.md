@@ -9,3 +9,5 @@
     - para ajudar na estruturação e refatoração do meu código.
  - Miro 
     - para modelar o diagrama da classe e interfaces.
+  
+![image](https://github.com/suhellynaraujo/modelando_iphone_com_uml/assets/66279026/098f8091-730c-48f2-8297-6ab2ee67a9f1)
